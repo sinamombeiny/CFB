@@ -3,7 +3,7 @@
 Download link: [File](https://github.com/sinamombeiny/canopus/blob/394e360062ad0fb6efe6f3a1abbda2f6269089fc/file.css)
 
 
-![](https://cdn.horizon.pics/qjLKv.png?k=wwKGXpp5YIDk6oiD)
+![image](https://user-images.githubusercontent.com/79528308/224450873-eaf92566-4e71-4ec0-99a7-f64261aba49b.png)
 
 ---
 1st of all we need to go "about:support"
