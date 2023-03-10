@@ -1,5 +1,8 @@
-Download link: https://github.com/sinamombeiny/canopus/blob/394e360062ad0fb6efe6f3a1abbda2f6269089fc/file.css
 
+
+Download link: [File](https://github.com/sinamombeiny/canopus/blob/394e360062ad0fb6efe6f3a1abbda2f6269089fc/file.css)
+
+---
 1st of all we need to go "about:support"
 
 then click on "Open Folder" (Profile Folder)
@@ -19,4 +22,6 @@ then go "about:config"
 search " toolkit.legacyUserProfileCustomizations.stylesheets "
 
 click toggle "true"
+
+
 done!
