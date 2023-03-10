@@ -2,6 +2,9 @@
 
 Download link: [File](https://github.com/sinamombeiny/canopus/blob/394e360062ad0fb6efe6f3a1abbda2f6269089fc/file.css)
 
+
+![](https://cdn.horizon.pics/qjLKv.png?k=wwKGXpp5YIDk6oiD)
+
 ---
 1st of all we need to go "about:support"
 
