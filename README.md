@@ -1,30 +1,29 @@
-
-
-Download link: [File](https://github.com/sinamombeiny/canopus/blob/394e360062ad0fb6efe6f3a1abbda2f6269089fc/file.css)
-
-
-![image](https://user-images.githubusercontent.com/79528308/224450873-eaf92566-4e71-4ec0-99a7-f64261aba49b.png)
+**Download :** [File](https://github.com/sinamombeiny/canopus/blob/394e360062ad0fb6efe6f3a1abbda2f6269089fc/file.css)
 
 ---
-1st of all we need to go "about:support"
+![image](https://user-images.githubusercontent.com/79528308/224451631-2ba047a0-0260-432f-959a-4d65d2fda261.png)
 
-then click on "Open Folder" (Profile Folder)
+---
+### _FOLLOW_
 
-create a new folder named "chrome"
+  1. 1st of all we need to go **"about:support"**
 
-then open chrome folder and create a another folder named "img"
+  2. then click on **"Open Folder"** (Profile Folder)
 
-Now go and copy that file that you downloaded when the video started. and paste in chrome folder.
+  3. create a new folder named **"chrome"**
 
-paste your picture on "img" folder, and copy image name 
+  4. then open chrome folder and create a another folder named **"img"**
 
-open css file, edit image name and save
+  5. Now go and copy that file that you downloaded when the video started. and paste in chrome folder.
 
-then go "about:config"
+  6. paste your picture on "img" folder, and copy image name 
 
-search " toolkit.legacyUserProfileCustomizations.stylesheets "
+  7. open css file, edit image name and save
 
-click toggle "true"
+  8. then go **"about:config"**
 
+  9. search **" toolkit.legacyUserProfileCustomizations.stylesheets "**
 
-done!
+  10. click toggle **"true"**
+
+Done!
