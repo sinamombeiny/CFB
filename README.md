@@ -4,10 +4,7 @@
 ![image](https://user-images.githubusercontent.com/79528308/224451631-2ba047a0-0260-432f-959a-4d65d2fda261.png)
 
 ---
-### _FOLLOW_
-
   1. 1st of all we need to go **"about:support"**
-
   2. then click on **"Open Folder"** (Profile Folder)
 
   3. create a new folder named **"chrome"**
